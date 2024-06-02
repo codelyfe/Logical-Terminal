@@ -3,6 +3,7 @@ A Logical Terminal for MacOS
 
 ## Versions 
 Release v1.0.0 (Alpha)
+- Download on (SourceForge) https://sourceforge.net/projects/logical-terminal/
 
 ![Alt Logical Terminal Install](https://i.ibb.co/NTrS305/Screenshot-2024-06-01-at-3-22-06-PM.png)
 ![Alt Logical Terminal](https://i.ibb.co/dMwnD70/Screenshot-2024-06-01-at-3-21-24-PM.png)
