@@ -1,8 +1,8 @@
 # Logical-Terminal
-A Logical Terminal for MacOS
+A Logical Terminal for MacOS & Windows OS
 
 ## Versions 
-Release v1.0.0 (Alpha)
+Release v1.0.0 (Alpha) ( MacOS only / Download Windows Version from main Git )
 - Download on (SourceForge) https://sourceforge.net/projects/logical-terminal/
 
 ![Alt Logical Terminal Install](https://i.ibb.co/NTrS305/Screenshot-2024-06-01-at-3-22-06-PM.png)
@@ -71,3 +71,7 @@ Available commands:
 
 Created and maintained by https://codelyfe.github.io/
 ```
+
+## How to use?
+
+Type 'help' for a list of commands and discover new posibilities.
