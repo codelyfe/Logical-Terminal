@@ -74,4 +74,4 @@ Created and maintained by https://codelyfe.github.io/
 
 ## How to use?
 
-Type 'help' for a list of commands and discover new posibilities.
+Type 'help' for a list of commands and discover new possibilities.
